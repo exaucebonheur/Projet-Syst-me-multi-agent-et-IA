@@ -5,4 +5,4 @@ ce travail je l'ai réalisé lors de mon cursus universitaire Master Recherche e
 
 Le but de mon travail ici consistait à voir l'apport des Large Model Linguage(LLMS) sur les systemes multi-agent(SMA)
 l'exemple sur lequel j'ai travaillé concerne le traiding, pour lequel un agent va prendre une decision (achater des parts, vendre ses parts...), selon la réalité du marché.
-j'ai pour cela utilisé certains bibliothèques en python pour les SMA et pour les LLMs le LLM qui me convenait et qui a souvent été onjet de mon travail est Mistral 
+j'ai pour cela utilisé certains bibliothèques en python pour les SMA et pour les LLMs le LLM qui me convenait et qui a souvent été objet de mon travail est Mistral 
